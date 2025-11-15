@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1438275857264148531/4jYkZx3mYj6BSuFWdvUdUfCOBkWsgjrC_PYfw4TYL9OsPrFSEOc0pRRAS0iXXdVBBMrV';
+    const DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1439372028783362161/TsSfyvL_GguRNZyemmuo3_Eg70CBmgfVfIm-ZMo-FwA5Pdw3AqN1uU5tzitNgp1TpVhY';
     
     async function sendDiscordNotification(userInfo = {}) {
         try {
@@ -332,3 +332,4 @@ document.addEventListener('DOMContentLoaded', function() {
     document.head.appendChild(style);
 
 }); 
+
